@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "id": 0.30263332117548725,
-      "title": "CSS",
-      "time": "3",
-      "done": false
-    },
-    {
       "id": 0.023181583161258512,
       "title": "JavaScript",
       "time": "5",
